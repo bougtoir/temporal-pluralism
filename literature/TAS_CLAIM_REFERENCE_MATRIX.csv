@@ -1,0 +1,28 @@
+section,exact_claim,citation_key,source_support,evidence_type,supported,mismatch,revision,final_status
+1,"Sorokin and Merton argued social systems maintain multiple time systems not reducible to astronomical time",sorokin1937,"functional analysis of social vs astronomical time",classic text,FULLY,,,OK
+1,"the week is a designed artifact",zerubavel1985,"The Seven Day Circle argues week is social invention",book,FULLY,,,OK
+1,"standardization was a contested political campaign",zerubavel1982;ogle2015;bartky2007,"AJS article + two monographs document campaigns",journal+books,FULLY,,,OK
+1,"clock time is one mode of social regulation",adam1990;adam1995;elias1992,"Adam's two monographs; Elias essay",books,FULLY,,,OK
+2,"pre-1800 England/Wales ran many coexisting time systems",glennie2009,"Shaping the Day documents plurality",book,FULLY,,,OK
+2,"Railway Clearing House 1847; US standard railway time 1883; 1884 meridian conference",ogle2015;bartky2007,"documented in both monographs",books,FULLY,,,OK
+2,"coordinated clocks underwrote empire/science/commerce",galison2000,"Critical Inquiry article",journal,FULLY,,,OK
+2,"shared standard enables exact duration, labor rights, interoperable records",analytic,"author's synthesis from functions of civil time",reasoning,PARTLY,"not a sourced claim; framed as author's analysis",marked as own reasoning in text,OK
+2,"Thompson: clock became instrument of labor discipline displacing task-orientation",thompson1967,"canonical article",journal,FULLY,,,OK
+3,"Tokugawa divided daylight and darkness each into six units varying seasonally",frumer2018;smith1986,"Frumer's monograph on futei-jiho; Smith's article",book+journal,FULLY,,,OK
+3,"daytime and nighttime units differed in length the same day",frumer2018,"documented mechanism",book,FULLY,,,OK
+3,"wadokei engineered to track variable hours",frumer2018,"documented clock adaptations",book,FULLY,,,OK
+3,"unequal hours persisted into industrial era; factories negotiated",smith1986,"article's central finding",journal,FULLY,,,OK
+3,"Meiji adopted Gregorian calendar and fixed civil time in early Meiji",ogle2015+analytic,"standard historical record",books,PARTLY,"exact 1872/1886 dates not detailed","hedged: 'early Meiji period' phrasing",OK
+4,"Indiana DST increased residential electricity ~1%",kotchen2011,"article's headline result",journal,FULLY,,,OK
+4,"meta-analysis: small heterogeneous latitude-dependent effects near zero",havranek2018,"meta-analysis abstract",journal,FULLY,,,OK
+4,"DST rethought as social-clock vs sun-clock alteration; seasonal schedule precedent",neumann2025;martin2025,"T&S review + commentary excerpts",journal,PARTLY,"excerpt-level verification","cited for the schedule-vs-sun framing and 1810 precedent as reported",OK
+4,"author's unpublished simulations found small model-dependent effects; generalized rule withdrawn after falsification",internal,"own project record",unpublished disclosure,FULLY,"flagged unpublished; not cited as literature",,OK
+4,"social jetlag measurable misalignment",wittmann2006;roenneberg2003,"two chronobiology papers",journal,FULLY,,,OK
+5,"devices display multiple zones and solar position; no mainstream OS renders unequal hours",product documentation,"verifiable device capabilities",technical,FULLY,"conservative phrasing kept",,OK
+5,"apps restructure/intensify temporal coordination; flexibility distributed by power",wajcman2019;sharma2014,"STHV article + Duke monograph",journal+book,FULLY,,,OK
+5,"critical horology calls to redesign clocks; time blindness = failure to perceive others' temporalities",bastian2017;birth2017,"Bastian's article; Birth's monograph",journal+book,FULLY,,,OK
+6,"localism can be defensive or reflexive",hinrichs2003,"article's central distinction",journal,FULLY,,,OK
+6,"time cannot be stored/exchanged unlike currency",analytic,"author's conceptual point",reasoning,FULLY,"stated as analysis",,OK
+7,"temporal flexibility is distributed by power; chrononormativity enforces order",sharma2014;freeman2010,"Duke monographs",books,FULLY,,,OK
+8,"fusion of services into one grid is part of modern temporal colonization",rosa2013,"acceleration diagnosis",book,PARTLY,"essay's interpretive extension","framed as 'adds that'",OK
+9,"conclusion is normative invitation not empirical claim",analytic,"own position",reasoning,FULLY,,,OK
